@@ -1,0 +1,2 @@
+Comunicación en sistemas distribuidos.pdf
+https://poliformat.upv.es/access/content/group/OCW_6069_2008/T2.-Comunicaci%C3%B3n%20I%3A%20del%20C_S%20al%20modelo%20de%20objetos/ut%202.1.-%20Modelo%20C_S%20y%20RPCs/objDist.pdf
